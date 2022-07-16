@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xml:lang="pt-br" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+<!-- The following four metadata items are required for all NCX documents,
+including those that conform to the relaxed constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="123456789X"/> <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+  </head>
+
+  
+  
+  <docTitle>
+    <text></text>
+  </docTitle>
+
+  <docAuthor>
+    <text>Terra Sul</text>
+  </docAuthor>
+
+  <navMap>
+    <navPoint class="chapter" id="index" playOrder="1">
+      <navLabel><text>Index</text></navLabel>
+      <content src="index.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="part1" playOrder="2">
+      <navLabel><text>Parte 1 – Orientações gerais</text></navLabel>
+      <content src="content/part1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part2" playOrder="3">
+      <navLabel><text>Parte 2 - Orientações Específicas e propostas de atividades – 7.º ano</text></navLabel>
+      <content src="content/part2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
