@@ -93,8 +93,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-.grid2,
-.grid3 {
+.grid2{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
@@ -105,7 +104,9 @@ h1 {
 }
 
 .grid3 {
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
 }
 
 .d-flex {
