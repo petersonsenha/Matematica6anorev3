@@ -38,4 +38,10 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
       <content src="content/part2.xhtml"/>
     </navPoint>
   </navMap>
+  <navMap>
+    <navPointclass="chapter" id="" playOrder="1">
+      <navLabel><text> </text></navLabel>
+      <content scr="">
+    </navPoint>
+  </navMap>
 </ncx>
