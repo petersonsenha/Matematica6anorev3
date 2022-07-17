@@ -402,3 +402,7 @@ ul {
     flex-direction: column;
   }
 }
+.par{
+  text-indent: 1.5em;
+  margin-left: 1.5em;
+}
