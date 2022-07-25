@@ -96,6 +96,11 @@ h1 {
   margin-bottom: 10px;
 }
 
+.grid1{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+}
 .grid2{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -220,7 +225,9 @@ legend {
   max-width: 90%;
   font-size: 70%;
   overflow-x: auto;
+  text-align: right;
 }
+
 fraction {
   display: inline-grid;
 
