@@ -84,7 +84,8 @@ h1 {
 .subtitulo {
   font-size: 42px;
   font-weight: bold;
-  color: #0080c8;
+  /*color: #0080c8;*/
+  color:rgb(241, 135, 22);
   margin-bottom: 30px;
 }
 .intro{
