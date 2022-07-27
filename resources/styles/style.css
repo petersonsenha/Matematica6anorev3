@@ -75,7 +75,10 @@ h1 {
 .bold {
   font-weight: bold;
 }
-
+.iconedireita{
+  display:flex;
+  justify-content: space-between;
+}
 .imagemcentralizada{
   margin-left: 40%;
 }
@@ -91,7 +94,9 @@ h1 {
 .intro{
   color: #0080c8;
 }
-
+.iconeTamanho{
+  size: 100%!important;
+}
 .subtitulo {
   font-size: 28px;
   margin-bottom: 10px;
