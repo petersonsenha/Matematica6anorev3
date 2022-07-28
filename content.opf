@@ -16,18 +16,18 @@
         <meta property="schema:accessibilityAPI">ARIA</meta>
     </metadata>
     <manifest>
-        <item id="content" href="index.html" media-type="application/html" />
+        <item id="content" href="index.xhtml" media-type="application/xhtml+xml" />
         <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
         <item id="cover" properties="cover-image" href="cover.jpeg" mediatype="image/jpeg" />
-        <item id="u1c2" href="content/unidade1/capitulo2.html" media-type="application/html" />
-        <item id="u1c3" href="content/unidade1/capitulo3.html" media-type="application/html" />
-        <item id="u1c4" href="content/unidade1/capitulo4.html" media-type="application/html" />
+        <item id="u1c1" href="content/unidade1/capitulo1.xhtml" media-type="application/xhtml+xml" />
+        <item id="u1c2" href="content/unidade1/capitulo2.xhtml" media-type="application/xhtml+xml" />
+        <item id="u1c3" href="content/unidade1/capitulo3.xhtml" media-type="application/xhtml+xml" />
+        <item id="u1c4" href="content/unidade1/capitulo4.xhtml" media-type="application/xhtml+xml" />
 
         <item id="u2c1" href="content/unidade2/capitulo1.html" media-type="application/html" />
         <item id="u2c2" href="content/unidade2/capitulo2.html" media-type="application/html" />
         <item id="u2c3" href="content/unidade2/capitulo3.html" media-type="application/html" />
         <item id="u2c4" href="content/unidade2/capitulo4.html" media-type="application/html" />
-        <item id="u2c5" href="content/unidade2/capitulo5.html" media-type="application/html" />
 
         <item id="u3c1" href="content/unidade3/capitulo1.html" media-type="application/html" />
         <item id="u3c2" href="content/unidade3/capitulo2.html" media-type="application/html" />
@@ -55,6 +55,12 @@
         <item id="u7c5" href="content/unidade7/capitulo5.html" media-type="application/html" />
         <item id="u7c6" href="content/unidade7/capitulo6.html" media-type="application/html" />
         <item id="u7c7" href="content/unidade7/capitulo7.html" media-type="application/html" />
+
+        <item id="anexos" href="content/anexos-para-reproducao.html" media-type="application/html" />
+        <item id="glossario" href="content/glossario.html" media-type="application/html" />
+        <item id="resposta" href="content/respostas-das-atividades.html" media-type="application/html" />
+        <item id="referencia" href="content/referencias.html" media-type="application/html" />
+        <item id="sugestoes" href="content/sugestoes-de-leitura.html" media-type="application/html" />
 
         <item id="img1" href="resources/images/000007.png" media-type="images/png" />
         <item id="img2" href="resources/images/000008.png" media-type="images/png" />
@@ -923,7 +929,28 @@
         <item id="img865" href="resources/images/volei.PNG" media-type="images/png" />
         <item id="img866" href="resources/images/xm.PNG" media-type="images/png" />
         <item id="img867" href="resources/images/yx.png" media-type="images/png" />
+        
+        
+        <item id="img868" href="resources/images/escolar.png" media-type="images/png" />
+        <item id="img869" href="resources/images/flux3.png" media-type="images/png" />
+        <item id="img870" href="resources/images/tempo.png" media-type="images/png" />
+        <item id="img871" href="resources/images/000057.png" media-type="images/png" />
+        
+        <item id="script1" href="resources/scripts/main.js" media-type="interactions/js" />
+        <item id="script2" href="resources/scripts/mainUnidade3.js" media-type="interactions/js" />
+        <item id="script3" href="resources/scripts/math.js" media-type="interactions/js" />
+        <item id="script4" href="resources/scripts/unidade4.js" media-type="interactions/js" />
+        <item id="script6" href="resources/scripts/unidade6.js" media-type="interactions/js" />
+        <item id="script7" href="resources/scripts/unidade7.js" media-type="interactions/js" />
+        <item id="script8" href="resources/scripts/modules/carousel.js" media-type="interactions/js" />
+        <item id="script9" href="resources/scripts/modules/dropdownMenu.js" media-type="interactions/js" />
+        <item id="script10" href="resources/scripts/modules/outsideClick.js" media-type="interactions/js" />
 
+        <item id="style1" href="resources/styles/style.css" media-type="style/css" />
+        <item id="style2" href="resources/styles/interacoes.css" media-type="style/css" />
+
+        
+        
 
     </manifest>
     <spine toc="ncx">

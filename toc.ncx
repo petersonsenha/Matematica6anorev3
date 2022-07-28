@@ -303,7 +303,7 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
         </navPoint>
         <navPoint class="subcapitulo" id="U3C5Sub2" playOrder="71">
           <navLabel><text>Localizando lugares e pessoas</text></navLabel>
-          <content src="content/unidade2/capitulo5.html"/>
+          <content src="content/unidade3/capitulo5.html"/>
         </navPoint>
         <navPoint class="subcapitulo" id="U3C5Sub3" playOrder="72">
           <navLabel><text>Pontos no plano cartesiano</text></navLabel>
