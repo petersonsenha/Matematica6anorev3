@@ -1,0 +1,1427 @@
+%!Adobe-FontList 1.22
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:.LucidaGrandeUI
+FamilyName:System Font
+StyleName:Regular
+FullName:System Font Regular
+MenuName:System Font
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\LucidaGrande.ttc
+TTCOffset:768
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3193512
+FileModTime:1643122681
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:25,Win,1,Tipus de lletra del sistema
+NameArray:2,Win,1,系統字體
+NameArray:29,Win,1,Systémové písmo
+NameArray:0,Win,1,Systemskrift
+NameArray:0,Win,1,Systemschrift
+NameArray:6,Win,1,Γραμματοσειρά συστήματος
+NameArray:0,Win,1,System Font
+NameArray:0,Win,1,Järjestelmäfontti
+NameArray:0,Win,1,Police système
+NameArray:5,Win,1,גופן מערכת
+NameArray:29,Win,1,Rendszerbetűtípus
+NameArray:0,Win,1,Font di sistema
+NameArray:1,Win,1,システムフォント
+NameArray:3,Win,1,시스템 서체
+NameArray:0,Win,1,Systeemlettertype
+NameArray:0,Win,1,Systemfont
+NameArray:29,Win,1,Czcionka systemowa
+NameArray:0,Win,1,Fonte do Sistema
+NameArray:29,Win,1,Font de sistem
+NameArray:7,Win,1,Системный шрифт
+NameArray:0,Win,1,Font sustava
+NameArray:29,Win,1,Systémové písmo
+NameArray:0,Win,1,Systemtypsnitt
+NameArray:21,Win,1,แบบอักษรระบบ
+NameArray:0,Win,1,Sistem Fontu
+NameArray:0,Win,1,Fon Sistem
+NameArray:7,Win,1,Системний шрифт
+NameArray:30,Win,1,Phông chữ Hệ thống
+NameArray:0,Win,1,Fon Sistem
+NameArray:25,Win,1,系统字体
+NameArray:0,Win,1,System Font
+NameArray:0,Win,1,Tipo de letra do sistema
+NameArray:4,Win,1,خط النظام
+NameArray:0,Win,1,Tipo de letra del sistema
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:.LucidaGrandeUI-Bold
+FamilyName:System Font
+StyleName:Bold
+FullName:System Font Bold
+MenuName:System Font
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\LucidaGrande.ttc
+TTCOffset:1180
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3193512
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:25,Win,1,Tipus de lletra del sistema
+NameArray:2,Win,1,系統字體
+NameArray:29,Win,1,Systémové písmo
+NameArray:0,Win,1,Systemskrift
+NameArray:0,Win,1,Systemschrift
+NameArray:6,Win,1,Γραμματοσειρά συστήματος
+NameArray:0,Win,1,System Font
+NameArray:0,Win,1,Järjestelmäfontti
+NameArray:0,Win,1,Police système
+NameArray:5,Win,1,גופן מערכת
+NameArray:29,Win,1,Rendszerbetűtípus
+NameArray:0,Win,1,Font di sistema
+NameArray:1,Win,1,システムフォント
+NameArray:3,Win,1,시스템 서체
+NameArray:0,Win,1,Systeemlettertype
+NameArray:0,Win,1,Systemfont
+NameArray:29,Win,1,Czcionka systemowa
+NameArray:0,Win,1,Fonte do Sistema
+NameArray:29,Win,1,Font de sistem
+NameArray:7,Win,1,Системный шрифт
+NameArray:0,Win,1,Font sustava
+NameArray:29,Win,1,Systémové písmo
+NameArray:0,Win,1,Systemtypsnitt
+NameArray:21,Win,1,แบบอักษรระบบ
+NameArray:0,Win,1,Sistem Fontu
+NameArray:0,Win,1,Fon Sistem
+NameArray:7,Win,1,Системний шрифт
+NameArray:30,Win,1,Phông chữ Hệ thống
+NameArray:0,Win,1,Fon Sistem
+NameArray:25,Win,1,系统字体
+NameArray:0,Win,1,System Font
+NameArray:0,Win,1,Tipo de letra do sistema
+NameArray:4,Win,1,خط النظام
+NameArray:0,Win,1,Tipo de letra del sistema
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Bold
+FamilyName:Avenir Next
+StyleName:Bold
+FullName:Avenir Next Bold
+MenuName:Avenir Next
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Bold
+NameArray:0,Mac,4,Avenir Next Bold
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-BoldItalic
+FamilyName:Avenir Next
+StyleName:Bold Italic
+FullName:Avenir Next Bold Italic
+MenuName:Avenir Next
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:356
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Next Bold Italic
+NameArray:0,Mac,4,Avenir Next Bold Italic
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBold
+FamilyName:Avenir Next
+StyleName:Demi Bold
+FullName:Avenir Next Demi Bold
+MenuName:Avenir Next Demi Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:640
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Demi Bold
+NameArray:0,Mac,4,Avenir Next Demi Bold
+NameArray:0,Win,1,Avenir Next Demi Bold
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBoldItalic
+FamilyName:Avenir Next
+StyleName:Demi Bold Italic
+FullName:Avenir Next Demi Bold Italic
+MenuName:Avenir Next Demi Bold
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:924
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Demi Bold Italic
+NameArray:0,Mac,4,Avenir Next Demi Bold Italic
+NameArray:0,Win,1,Avenir Next Demi Bold
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Heavy
+FamilyName:Avenir Next
+StyleName:Heavy
+FullName:Avenir Next Heavy
+MenuName:Avenir Next Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:2344
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Heavy
+NameArray:0,Mac,4,Avenir Next Heavy
+NameArray:0,Win,1,Avenir Next Heavy
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-HeavyItalic
+FamilyName:Avenir Next
+StyleName:Heavy Italic
+FullName:Avenir Next Heavy Italic
+MenuName:Avenir Next Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:2628
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Next Heavy Italic
+NameArray:0,Mac,4,Avenir Next Heavy Italic
+NameArray:0,Win,1,Avenir Next Heavy
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Italic
+FamilyName:Avenir Next
+StyleName:Italic
+FullName:Avenir Next Italic
+MenuName:Avenir Next
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:1208
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Next Italic
+NameArray:0,Mac,4,Avenir Next Italic
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Medium
+FamilyName:Avenir Next
+StyleName:Medium
+FullName:Avenir Next Medium
+MenuName:Avenir Next Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:1492
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Medium
+NameArray:0,Mac,4,Avenir Next Medium
+NameArray:0,Win,1,Avenir Next Medium
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-MediumItalic
+FamilyName:Avenir Next
+StyleName:Medium Italic
+FullName:Avenir Next Medium Italic
+MenuName:Avenir Next Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:1776
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Medium Italic
+NameArray:0,Mac,4,Avenir Next Medium Italic
+NameArray:0,Win,1,Avenir Next Medium
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Regular
+FamilyName:Avenir Next
+StyleName:Regular
+FullName:Avenir Next Regular
+MenuName:Avenir Next
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:2060
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Regular
+NameArray:0,Mac,4,Avenir Next Regular
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLight
+FamilyName:Avenir Next
+StyleName:Ultra Light
+FullName:AvenirNext-UltraLight
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:2912
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next Ultra Light
+NameArray:0,Mac,4,Avenir Next Ultra Light
+NameArray:0,Win,1,Avenir Next Ultra Light
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLightItalic
+FamilyName:Avenir Next
+StyleName:Ultra Light Italic
+FullName:Avenir Next Ultra Light Italic
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Avenir Next.ttc
+TTCOffset:3196
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5189232
+FileModTime:1643122681
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Avenir Next Ultra Light Italic
+NameArray:0,Mac,4,Avenir Next Ultra Light Italic
+NameArray:0,Win,1,Avenir Next Ultra Light
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville
+FamilyName:Baskerville
+StyleName:Regular
+FullName:Baskerville
+MenuName:Baskerville
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:804
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Bold
+FamilyName:Baskerville
+StyleName:Bold
+FullName:Baskerville Bold
+MenuName:Baskerville
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville Bold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-BoldItalic
+FamilyName:Baskerville
+StyleName:Bold Italic
+FullName:Baskerville Bold Italic
+MenuName:Baskerville
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:300
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville Bold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Italic
+FamilyName:Baskerville
+StyleName:Italic
+FullName:Baskerville Italic
+MenuName:Baskerville
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:552
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBold
+FamilyName:Baskerville
+StyleName:SemiBold
+FullName:Baskerville SemiBold
+MenuName:Baskerville
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:1056
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baskerville SemiBold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBoldItalic
+FamilyName:Baskerville
+StyleName:SemiBold Italic
+FullName:Baskerville SemiBold Italic
+MenuName:Baskerville
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Baskerville.ttc
+TTCOffset:1308
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1241036
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Baskerville SemiBold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+FullName:Adobe Caslon Pro
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:167536
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Adobe Caslon Pro
+NameArray:0,Win,1,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvantGardeITCbyBT-Medium
+FamilyName:AvantGarde Md BT
+StyleName:Medium
+FullName:Avant Garde Medium BT
+MenuName:AvantGarde Md BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\AVGARDM.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37432
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avant Garde Medium BT
+NameArray:0,Win,1,AvantGarde Md BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Abadi MT Condensed Light
+FileModTime:1643122681
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Addled
+FamilyName:Addled
+StyleName:Regular
+FullName:Addled Regular
+MenuName:Addled
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Addled Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37624
+FileModTime:1643122681
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Addled Regular
+NameArray:0,Win,1,Addled
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmateurComic
+FamilyName:AmateurComic
+StyleName:Medium
+FullName:AmateurComic
+MenuName:AmateurComic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\AmateurComic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:20108
+FileModTime:1643122681
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,AmateurComic
+NameArray:0,Win,1,AmateurComic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Andale Mono
+FileModTime:1643122681
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+FullName:Arial Bold Italic
+MenuName:Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Arial Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:558672
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Bold Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:751104
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Arial Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:557760
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial Narrow
+StyleName:Regular
+FullName:Arial Narrow
+MenuName:Arial Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Arial Narrow.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179492
+FileModTime:1643122681
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Arial Narrow
+NameArray:0,Win,1,Arial Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:773236
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-BoldItalic
+FamilyName:Calibri
+StyleName:Bold Italic
+FullName:Calibri Bold Italic
+MenuName:Calibri
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Calibri Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:867288
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Calibri Bold Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Calibri Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:817552
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+FullName:Calibri Italic
+MenuName:Calibri
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Calibri Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:821772
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Calibri Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:329144
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Calibri
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+NameArray:0,Win,16,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chalkduster
+FamilyName:Chalkduster
+StyleName:Regular
+FullName:Chalkduster
+MenuName:Chalkduster
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Chalkduster.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:483652
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Chalkduster
+NameArray:0,Mac,4,Chalkduster
+NameArray:0,Win,1,Chalkduster
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DimboItalic
+FamilyName:Dimbo
+StyleName:Italic
+FullName:Dimbo Italic
+MenuName:Dimbo
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Dimbo Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41804
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Dimbo Italic
+NameArray:0,Win,1,Dimbo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DimboRegular
+FamilyName:Dimbo
+StyleName:Regular
+FullName:Dimbo Regular
+MenuName:Dimbo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Dimbo Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42132
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dimbo Regular
+NameArray:0,Win,1,Dimbo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Herculanum
+FamilyName:Herculanum
+StyleName:Regular
+FullName:Herculanum
+MenuName:Herculanum
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Herculanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106264
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Herculanum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\MT Extra
+FileModTime:1643122681
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231312
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SymbolMT
+FamilyName:Symbol
+StyleName:Regular
+FullName:Symbol
+MenuName:Symbol
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\SYMBOL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66028
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Symbol
+NameArray:0,Win,1,Symbol
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:836380
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Times.dfont
+FileModTime:1643122681
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings3
+FamilyName:Wingdings 3
+StyleName:Regular
+FullName:Wingdings 3
+MenuName:Wingdings 3
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\Wingdings 3.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34804
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Wingdings 3
+NameArray:0,Win,1,Wingdings 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Addled
+FamilyName:Addled
+StyleName:Regular
+FullName:Addled Regular
+MenuName:Addled
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\addled-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37624
+FileModTime:1480063140
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Addled Regular
+NameArray:0,Win,1,Addled
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AkbarPlain
+FamilyName:Akbar
+StyleName:Plain
+FullName:Akbar
+MenuName:Akbar
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\akbar.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132868
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Akbar
+NameArray:0,Win,1,Akbar
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DupreeLight
+FamilyName:Dupree
+StyleName:Light
+FullName:Dupree Light
+MenuName:Dupree
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\duprl___.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61344
+FileModTime:1643122681
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dupree Light
+NameArray:0,Win,1,Dupree
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FawnScript
+FamilyName:Fawn Script
+StyleName:Regular
+FullName:Fawn Script
+MenuName:Fawn Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\fawn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21068
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Fawn Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LucidaGrande
+FamilyName:Lucida Grande
+StyleName:Regular
+FullName:Lucida Grande
+MenuName:Lucida Grande
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\LucidaGrande.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3193512
+FileModTime:1643122681
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lucida Grande
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LucidaGrande-Bold
+FamilyName:Lucida Grande
+StyleName:Bold
+FullName:Lucida Grande Bold
+MenuName:Lucida Grande
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\LucidaGrande.ttc
+TTCOffset:404
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3193512
+FileModTime:1643122681
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lucida Grande Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Bold
+FamilyName:PT Sans
+StyleName:Bold
+FullName:PT Sans Bold
+MenuName:PT Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:2268
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Bold
+NameArray:0,Mac,4,PT Sans Bold
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-BoldItalic
+FamilyName:PT Sans
+StyleName:Bold Italic
+FullName:PT Sans Bold Italic
+MenuName:PT Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:1952
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,PT Sans Bold Italic
+NameArray:0,Mac,4,PT Sans Bold Italic
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Caption
+FamilyName:PT Sans Caption
+StyleName:Regular
+FullName:PT Sans Caption
+MenuName:PT Sans Caption
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:1636
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Caption
+NameArray:0,Mac,4,PT Sans Caption
+NameArray:0,Win,1,PT Sans Caption
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-CaptionBold
+FamilyName:PT Sans Caption
+StyleName:Bold
+FullName:PT Sans Caption Bold
+MenuName:PT Sans Caption
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:1320
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Caption Bold
+NameArray:0,Mac,4,PT Sans Caption Bold
+NameArray:0,Win,1,PT Sans Caption
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Italic
+FamilyName:PT Sans
+StyleName:Italic
+FullName:PT Sans Italic
+MenuName:PT Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:372
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,PT Sans Italic
+NameArray:0,Mac,4,PT Sans Italic
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Narrow
+FamilyName:PT Sans Narrow
+StyleName:Regular
+FullName:PT Sans Narrow
+MenuName:PT Sans Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:1004
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Narrow
+NameArray:0,Mac,4,PT Sans Narrow
+NameArray:0,Win,1,PT Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-NarrowBold
+FamilyName:PT Sans Narrow
+StyleName:Bold
+FullName:PT Sans Narrow Bold
+MenuName:PT Sans Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:688
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Narrow Bold
+NameArray:0,Mac,4,PT Sans Narrow Bold
+NameArray:0,Win,1,PT Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+FullName:PT Sans
+MenuName:PT Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\marcio\Documents\_Trabalhos\PNLD 2024\MATEMATICA\6ºANO\Document fonts\PTSans.ttc
+TTCOffset:56
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2763776
+FileModTime:1643122681
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans
+NameArray:0,Mac,4,PT Sans
+NameArray:0,Win,1,PT Sans
+%EndFont
+

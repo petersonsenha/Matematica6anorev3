@@ -1,0 +1,1304 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AbadiMT-CondensedLight
+FamilyName:Abadi MT Condensed Light
+StyleName:Regular
+MenuName:Abadi MT Condensed Light
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Abadi MT Condensed Light
+WritingScript:Roman
+OutlineFileName:\Abadi MT Condensed Light
+DataFormat:sfntResource
+ResourceID:6001
+FileLength:74003
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AbadiMT-CondensedLight
+OutlineFileName:\Abadi MT Condensed Light
+ResourceID:3027
+MacStyle:0
+FileLength:74003
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AbadiMT-CondensedLight
+OutlineFileName:\Abadi MT Condensed Light
+ResourceID:3027
+MacStyle:1
+FileLength:74003
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Caslon Pro
+WritingScript:Roman
+OutlineFileName:\ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:167536
+FileModTime:1413447639
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Addled
+FamilyName:Addled
+StyleName:Regular
+MenuName:Addled
+StyleBits:0
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Addled Regular
+WritingScript:Roman
+OutlineFileName:\Addled Regular.ttf
+DataFormat:sfntData
+FileLength:37624
+FileModTime:796258800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AkbarPlain
+FamilyName:Akbar
+StyleName:Plain
+MenuName:Akbar
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Akbar
+WritingScript:Roman
+OutlineFileName:\akbar.TTF
+DataFormat:sfntData
+FileLength:132868
+FileModTime:952205018
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmateurComic
+FamilyName:AmateurComic
+StyleName:Medium
+MenuName:AmateurComic
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:AmateurComic
+WritingScript:Roman
+OutlineFileName:\AmateurComic.ttf
+DataFormat:sfntData
+FileLength:20108
+FileModTime:1328532470
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AndaleMono
+FamilyName:Andale Mono
+StyleName:Regular
+MenuName:Andale Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Andale Mono
+WritingScript:Roman
+OutlineFileName:\Andale Mono
+DataFormat:sfntResource
+ResourceID:7102
+FileLength:49135
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AndaleMono
+OutlineFileName:\Andale Mono
+ResourceID:7102
+MacStyle:0
+FileLength:49135
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:AndaleMono
+OutlineFileName:\Andale Mono
+ResourceID:7102
+MacStyle:1
+FileLength:49135
+FileModTime:1276565230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+MenuName:Arial
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Arial Bold Italic
+WritingScript:Roman
+OutlineFileName:\Arial Bold Italic.ttf
+DataFormat:sfntData
+FileLength:558672
+FileModTime:1411654095
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:\Arial Bold.ttf
+DataFormat:sfntData
+FileLength:751104
+FileModTime:1274715357
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+MenuName:Arial
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Arial Italic
+WritingScript:Roman
+OutlineFileName:\Arial Italic.ttf
+DataFormat:sfntData
+FileLength:557760
+FileModTime:1274715357
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial Narrow
+StyleName:Regular
+MenuName:Arial Narrow
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow
+WritingScript:Roman
+OutlineFileName:\Arial Narrow.ttf
+DataFormat:sfntData
+FileLength:179492
+FileModTime:1413412584
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+FileLength:773236
+FileModTime:1195961370
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Bold
+FamilyName:Avenir Next
+StyleName:Bold
+MenuName:Avenir Next
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Bold
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:72
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-BoldItalic
+FamilyName:Avenir Next
+StyleName:Bold Italic
+MenuName:Avenir Next
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Bold Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:356
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBold
+FamilyName:Avenir Next
+StyleName:Demi Bold
+MenuName:Avenir Next Demi Bold
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Demi Bold
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:640
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBoldItalic
+FamilyName:Avenir Next
+StyleName:Demi Bold Italic
+MenuName:Avenir Next Demi Bold
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Demi Bold Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:924
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Italic
+FamilyName:Avenir Next
+StyleName:Italic
+MenuName:Avenir Next
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:1208
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Medium
+FamilyName:Avenir Next
+StyleName:Medium
+MenuName:Avenir Next Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Medium
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:1492
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-MediumItalic
+FamilyName:Avenir Next
+StyleName:Medium Italic
+MenuName:Avenir Next Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Medium Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:1776
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Regular
+FamilyName:Avenir Next
+StyleName:Regular
+MenuName:Avenir Next
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Regular
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:2060
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Heavy
+FamilyName:Avenir Next
+StyleName:Heavy
+MenuName:Avenir Next Heavy
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Heavy
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:2344
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-HeavyItalic
+FamilyName:Avenir Next
+StyleName:Heavy Italic
+MenuName:Avenir Next Heavy
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Heavy Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:2628
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLight
+FamilyName:Avenir Next
+StyleName:Ultra Light
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:AvenirNext-UltraLight
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:2912
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLightItalic
+FamilyName:Avenir Next
+StyleName:Ultra Light Italic
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Ultra Light Italic
+WritingScript:Roman
+OutlineFileName:\Avenir Next.ttc
+TTCOffset:3196
+DataFormat:sfntData
+FileLength:5189232
+FileModTime:1413412598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvantGardeITCbyBT-Medium
+FamilyName:AvantGarde Md BT
+StyleName:Medium
+MenuName:AvantGarde Md BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avant Garde Medium BT
+WritingScript:Roman
+OutlineFileName:\AVGARDM.TTF
+DataFormat:sfntData
+FileLength:37432
+FileModTime:818236800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Bold
+FamilyName:Baskerville
+StyleName:Bold
+MenuName:Baskerville
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Baskerville Bold
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:48
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-BoldItalic
+FamilyName:Baskerville
+StyleName:Bold Italic
+MenuName:Baskerville
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Bold Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:300
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Italic
+FamilyName:Baskerville
+StyleName:Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:552
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville
+FamilyName:Baskerville
+StyleName:Regular
+MenuName:Baskerville
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baskerville
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:804
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBold
+FamilyName:Baskerville
+StyleName:SemiBold
+MenuName:Baskerville
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Baskerville SemiBold
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:1056
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBoldItalic
+FamilyName:Baskerville
+StyleName:SemiBold Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Baskerville SemiBold Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:1308
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1413412587
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-BoldItalic
+FamilyName:Calibri
+StyleName:Bold Italic
+MenuName:Calibri
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Calibri Bold Italic
+WritingScript:Roman
+OutlineFileName:\Calibri Bold Italic.ttf
+DataFormat:sfntData
+FileLength:867288
+FileModTime:1275423494
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+MenuName:Calibri
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Calibri Bold
+WritingScript:Roman
+OutlineFileName:\Calibri Bold.ttf
+DataFormat:sfntData
+FileLength:817552
+FileModTime:1275423494
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+MenuName:Calibri
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Calibri Italic
+WritingScript:Roman
+OutlineFileName:\Calibri Italic.ttf
+DataFormat:sfntData
+FileLength:821772
+FileModTime:1275423494
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+MenuName:Calibri
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calibri
+WritingScript:Roman
+OutlineFileName:\Calibri.ttf
+DataFormat:sfntData
+FileLength:329144
+FileModTime:1196661600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chalkduster
+FamilyName:Chalkduster
+StyleName:Regular
+MenuName:Chalkduster
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chalkduster
+WritingScript:Roman
+OutlineFileName:\Chalkduster.ttf
+DataFormat:sfntData
+FileLength:483652
+FileModTime:1413412588
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DimboItalic
+FamilyName:Dimbo
+StyleName:Italic
+MenuName:Dimbo
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Dimbo Italic
+WritingScript:Roman
+OutlineFileName:\Dimbo Italic.ttf
+DataFormat:sfntData
+FileLength:41804
+FileModTime:1343840778
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DimboRegular
+FamilyName:Dimbo
+StyleName:Regular
+MenuName:Dimbo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dimbo Regular
+WritingScript:Roman
+OutlineFileName:\Dimbo Regular.ttf
+DataFormat:sfntData
+FileLength:42132
+FileModTime:1343840778
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DupreeLight
+FamilyName:Dupree
+StyleName:Light
+MenuName:Dupree
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Dupree Light
+WritingScript:Roman
+OutlineFileName:\duprl___.ttf
+DataFormat:sfntData
+FileLength:61344
+FileModTime:1274101008
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FawnScript
+FamilyName:Fawn Script
+StyleName:Regular
+MenuName:Fawn Script
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fawn Script
+WritingScript:Roman
+OutlineFileName:\fawn.ttf
+DataFormat:sfntData
+FileLength:21068
+FileModTime:1156379850
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Herculanum
+FamilyName:Herculanum
+StyleName:Regular
+MenuName:Herculanum
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Herculanum
+WritingScript:Roman
+OutlineFileName:\Herculanum.ttf
+DataFormat:sfntData
+FileLength:106264
+FileModTime:1413412589
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LucidaGrande
+FamilyName:Lucida Grande
+StyleName:Regular
+MenuName:Lucida Grande
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Lucida Grande
+WritingScript:Roman
+OutlineFileName:\LucidaGrande.ttc
+TTCOffset:40
+DataFormat:sfntData
+FileLength:3193512
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LucidaGrande-Bold
+FamilyName:Lucida Grande
+StyleName:Bold
+MenuName:Lucida Grande
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lucida Grande Bold
+WritingScript:Roman
+OutlineFileName:\LucidaGrande.ttc
+TTCOffset:404
+DataFormat:sfntData
+FileLength:3193512
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:.LucidaGrandeUI
+FamilyName:System Font
+StyleName:Regular
+MenuName:System Font
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:System Font Regular
+WritingScript:Roman
+OutlineFileName:\LucidaGrande.ttc
+TTCOffset:768
+DataFormat:sfntData
+FileLength:3193512
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:.LucidaGrandeUI-Bold
+FamilyName:System Font
+StyleName:Bold
+MenuName:System Font
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:System Font Bold
+WritingScript:Roman
+OutlineFileName:\LucidaGrande.ttc
+TTCOffset:1180
+DataFormat:sfntData
+FileLength:3193512
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:231312
+FileModTime:1316597259
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MT-Extra
+FamilyName:MT Extra
+StyleName:Regular
+MenuName:MT Extra
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MT Extra
+WritingScript:Roman
+OutlineFileName:\MT Extra
+DataFormat:sfntResource
+ResourceID:1512
+FileLength:30835
+FileModTime:1415658958
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:MT-Extra
+OutlineFileName:\MT Extra
+ResourceID:5160
+MacStyle:0
+FileLength:30835
+FileModTime:1415658958
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+MenuName:PT Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PT Sans
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:56
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Italic
+FamilyName:PT Sans
+StyleName:Italic
+MenuName:PT Sans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:PT Sans Italic
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:372
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-NarrowBold
+FamilyName:PT Sans Narrow
+StyleName:Bold
+MenuName:PT Sans Narrow
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:PT Sans Narrow Bold
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:688
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Narrow
+FamilyName:PT Sans Narrow
+StyleName:Regular
+MenuName:PT Sans Narrow
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:PT Sans Narrow
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:1004
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-CaptionBold
+FamilyName:PT Sans Caption
+StyleName:Bold
+MenuName:PT Sans Caption
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:PT Sans Caption Bold
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:1320
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Caption
+FamilyName:PT Sans Caption
+StyleName:Regular
+MenuName:PT Sans Caption
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PT Sans Caption
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:1636
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-BoldItalic
+FamilyName:PT Sans
+StyleName:Bold Italic
+MenuName:PT Sans
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:PT Sans Bold Italic
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:1952
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Bold
+FamilyName:PT Sans
+StyleName:Bold
+MenuName:PT Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:PT Sans Bold
+WritingScript:Roman
+OutlineFileName:\PTSans.ttc
+TTCOffset:2268
+DataFormat:sfntData
+FileLength:2763776
+FileModTime:1413412942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SymbolMT
+FamilyName:Symbol
+StyleName:Regular
+MenuName:Symbol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Symbol
+WritingScript:Roman
+OutlineFileName:\SYMBOL.TTF
+DataFormat:sfntData
+FileLength:66028
+FileModTime:895262460
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+MenuName:Times New Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+OutlineFileName:\Times New Roman.ttf
+DataFormat:sfntData
+FileLength:836380
+FileModTime:1274715357
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+MenuName:Times
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times Roman
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:13494
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+MenuName:Times
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times Bold
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:16697
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+MenuName:Times
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times Italic
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:21585
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+MenuName:Times
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times Bold Italic
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:22219
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Roman
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:0
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Bold
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:1
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Italic
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:2
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-BoldItalic
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:3
+FileLength:1743667
+FileModTime:1413412600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings3
+FamilyName:Wingdings 3
+StyleName:Regular
+MenuName:Wingdings 3
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings 3
+WritingScript:Roman
+OutlineFileName:\Wingdings 3.ttf
+DataFormat:sfntData
+FileLength:34804
+FileModTime:1281665734
+%EndFont
+

@@ -190,35 +190,36 @@
             }
             Carousel(".c2", "n1", "p1");
           </script>
+
           <p class="calibre1"><span class="atividade">►</span> 2.ª sequência</p>
           <div class="carousel">
-            <div class="c2 carousel_visible">
+            <div class="c1 carousel_visible">
               <img role="img" src="../../resources/images/seq2_1.PNG"
                 alt="Quatro sequências formadas por círculos na cor laranja. A primeira é um círculo. A segunda são três círculos: um em cima e dois embaixo. A terceira são seis círculos: um em cima, dois embaixo e mais abaixo três círculos. A quarta sequência são dez círculos: um em cima, dois embaixo, três mais embaixo e os quatro último na base." />
             </div>
-            <div class="c2">
+            <div class="c1">
               <img role="img" src="../../resources/images/seq2_2.PNG"
                 alt="Quatro sequências formadas por círculos na cor laranja. A primeira é um círculo. A segunda são três círculos: um em cima e dois embaixo. A terceira são seis círculos: um em cima, dois embaixo e mais abaixo três círculos. A quarta sequência são dez círculos: um em cima, dois embaixo, três mais embaixo e os quatro último na base." />
             </div>
-            <div class="c2">
+            <div class="c1">
               <img role="img" src="../../resources/images/seq2_3.PNG"
                 alt="Quatro sequências formadas por círculos na cor laranja. A primeira é um círculo. A segunda são três círculos: um em cima e dois embaixo. A terceira são seis círculos: um em cima, dois embaixo e mais abaixo três círculos. A quarta sequência são dez círculos: um em cima, dois embaixo, três mais embaixo e os quatro último na base." />
             </div>
-            <div class="c2">
+            <div class="c1">
               <img role="img" src="../../resources/images/seq2_4.PNG"
                 alt="Quatro sequências formadas por círculos na cor laranja. A primeira é um círculo. A segunda são três círculos: um em cima e dois embaixo. A terceira são seis círculos: um em cima, dois embaixo e mais abaixo três círculos. A quarta sequência são dez círculos: um em cima, dois embaixo, três mais embaixo e os quatro último na base." />
             </div>
 
             <div class="carousel_actions" style="opacity: 0.3">
-              <button class="prev" id="p2" aria-label="Slide anterior">❮</button>
-              <button class="next" id="n2" aria-label="Próximo slide">❯</button>
+              <button class="prev" id="p" aria-label="Slide anterior">❮</button>
+              <button class="next" id="n" aria-label="Próximo slide">❯</button>
             </div>
             <legend style="text-align: center;" class="calibre1">Reinaldo Rosa/Acervo da Editora</legend>
           </div>
 
           
           <script>
-            function Carousel(carousel, next2, prev2) {
+            function Carousell(carousel, next2, prev2) {
               if (carousel && next2 && prev2) {
                 let posicaoAtual2 = 0;
                 const slides = document.querySelectorAll(carousel);
@@ -259,8 +260,15 @@
                 });
               }
             }
-            Carousel(".c1", "n2", "p2");
+            Carousell(".c1", "n", "p");
           </script>
+
+          <style>
+            .c1{
+              display: none;
+            }
+            
+          </style>
           <!--
           <details class="sequencias">
             <summary>Ver Sequência</summary>
