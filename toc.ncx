@@ -601,7 +601,7 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
         </navPoint>
         <navPoint class="subcapitulo" id="U7C1Sub2" playOrder="145">
           <navLabel><text>Conceito de perímetro</text></navLabel>
-          <content src="content/unidade7/capitulo1.html"/>
+          <content src="content/unidade7/capitulo1.html#section1"/>
         </navPoint>
       </navPoint>
       <navPoint class="capitulo" id="U7C2" playOrder="146">
@@ -701,7 +701,7 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
         </navPoint>
         <navPoint class="subcapitulo" id="U7C6Sub5" playOrder="170">
           <navLabel><text>Volume do paralelepípedo </text></navLabel>
-          <content src="content/unidade7/capitulo6.html"/>
+          <content src="content/unidade7/capitulo6.html#section4"/>
         </navPoint>
       </navPoint>
       <navPoint class="capitulo" id="U7C7" playOrder="171">
