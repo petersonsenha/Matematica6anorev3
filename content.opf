@@ -24,7 +24,7 @@
         <item id="u1c3" href="content/unidade1/capitulo3.xhtml" media-type="application/xhtml+xml" />
         <item id="u1c4" href="content/unidade1/capitulo4.xhtml" media-type="application/xhtml+xml" />
 
-        <item id="u2c1" href="content/unidade2/capitulo1.html" media-type="application/html" />
+        <item id="u2c1" href="content/unidade2/capitulo1.html" media-type="application/html+xlm" />
         <item id="u2c2" href="content/unidade2/capitulo2.html" media-type="application/html" />
         <item id="u2c3" href="content/unidade2/capitulo3.html" media-type="application/html" />
         <item id="u2c4" href="content/unidade2/capitulo4.html" media-type="application/html" />
