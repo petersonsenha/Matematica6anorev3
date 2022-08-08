@@ -16,7 +16,7 @@ export default function initCarousel(carousel, next, prev) {
 
     const proximoSlide = () => {
       if (posicaoAtual === totalSlides - 1) {
-        posicaoAtual = 0;
+        //posicaoAtual = 0;
       } else {
         posicaoAtual++;
       }
@@ -25,7 +25,7 @@ export default function initCarousel(carousel, next, prev) {
 
     const SlideAnterior = () => {
       if (posicaoAtual === 0) {
-        posicaoAtual = totalSlides - 1;
+        //posicaoAtual = totalSlides - 1;
       } else {
         posicaoAtual--;
       }
