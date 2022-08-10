@@ -106,7 +106,9 @@ h1 {
 .imagemcentralizada {
   margin-left: 40%;
 }
-
+h1.titulo {
+  color: #000;
+}
 .titulo,
 .subtitulo {
   font-size: 42px;
@@ -115,6 +117,12 @@ h1 {
   color: rgb(241, 135, 22);
   margin-bottom: 30px;
   font-family: Calibri;
+}
+.preto {
+  color: #000 !important;
+}
+.titulo {
+  color: #0080c8;
 }
 .intro {
   color: #0080c8;
@@ -126,7 +134,9 @@ h1 {
   font-size: 28px;
   margin-bottom: 10px;
 }
-
+.cinza {
+  color: #111 !important;
+}
 .grid1 {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
