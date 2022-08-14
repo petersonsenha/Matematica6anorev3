@@ -464,7 +464,29 @@ ul {
   text-indent: 1.5em;
   margin-left: 1.5em;
 }
-math{
-  font-Family: Arial;
+math {
+  /*direction: ltr;*/
+  writing-mode: horizontal-tb;
+  text-indent: 0;
+  bottom: 0;
+  text-align: justify;
+  letter-spacing: normal;
+  line-height: normal;
+  word-spacing: normal;
+  font-family: math;
   font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  display: inline math;
+  /*math-shift: normal;*/
+  math-style: compact;
+  /*math-depth: 0;*/
+}
+math[display="block" i] {
+  display: block math;
+  math-style: normal;
+}
+math[display="inline" i] {
+  display: inline math;
+  math-style: compact;
 }
