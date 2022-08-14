@@ -26,10 +26,22 @@
 }
 .carousel_item img,
 .c2 img {
+  width: 80%;
+  display: block;
+  height: 80%;
+  object-fit: contain;
+}
+.carousel_item img,
+.c1 img {
   width: 100%;
   display: block;
   height: 100%;
   object-fit: contain;
+}
+.carousel_item,
+.c1,
+.carousel_item_hidden {
+  display: none;
 }
 .carousel_item,
 .c2,
@@ -77,6 +89,11 @@
 }
 
 .c2 .carousel_visible {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+.c1 .carousel_visible {
   display: flex !important;
   justify-content: center;
   align-items: center;
